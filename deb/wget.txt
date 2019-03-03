@@ -1,1 +1,2 @@
-https://nchc.dl.sourceforge.net/project/xdman/xdm-2018-x64.tar.xz
+https://sourceforge.net/projects/xdman/files/xdm-2018-x64.tar.xz
+https://sourceforge.net/projects/xdman/files/xdm-2018-x86.tar.xz
